@@ -1,6 +1,8 @@
-![TheTechromancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetechromancer&theme=dark&show_icons=true)
-
 Hello 👋
+
+I'm a curious human being who enjoys solving difficult problems.
+
+![TheTechromancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetechromancer&theme=dark&show_icons=true)
 
 Below are links to some of my creations. Hopefully you will find them useful.
 
