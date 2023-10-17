@@ -14,9 +14,9 @@ Below are links to some of my creations. Hopefully you will find them useful.
 
 ---
 
-![trevorspray](https://github-readme-stats.vercel.app/api/pin/?username=blacklanternsecurity&repo=trevorspray&theme=dark&show_icons=true) [TrevorSpray]
+![trevorspray](https://github-readme-stats.vercel.app/api/pin/?username=blacklanternsecurity&repo=trevorspray&theme=dark&show_icons=true)
 
-(https://github.com/blacklanternsecurity/trevorspray) is a password spraying tool armed with a suite of MFA bypasses and a clever IPv6 proxy that lets you load-balance your logins between billions of different source IP addresses.
+[TrevorSpray](https://github.com/blacklanternsecurity/trevorspray) is a password spraying tool armed with a suite of MFA bypasses and a clever IPv6 proxy that lets you load-balance your logins between billions of different source IP addresses.
 
 ---
 
