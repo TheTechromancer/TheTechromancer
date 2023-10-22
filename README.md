@@ -8,7 +8,7 @@ Below are links to some of my creations. Hopefully you will find them useful.
 
 ---
 
-![BBOT](https://github-readme-stats.vercel.app/api/pin/?username=blacklanternsecurity&repo=bbot&theme=dark&show_icons=true)
+[![BBOT](https://github-readme-stats.vercel.app/api/pin/?username=blacklanternsecurity&repo=bbot&theme=dark&show_icons=true)](https://github.com/blacklanternsecurity/bbot)
 
 [BBOT](https://github.com/blacklanternsecurity/bbot) (Bighuge BLS OSINT Tool) is a swiss army knife for OSINT and bug bounties. Thanks to its recursion it is the most effective subdomain enumeration tool available (I periodically [benchmark it](https://blog.blacklanternsecurity.com/p/subdomain-enumeration-tool-face-off-4e5) to make sure). It was inspired by Spiderfoot but is much faster and supports multiple targets. It was a lot of fun to write and I am still constantly adding modules to it.
 
