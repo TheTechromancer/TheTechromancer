@@ -1,6 +1,6 @@
 Hello 👋
 
-I'm a curious human being who enjoys solving difficult problems.
+I'm a curious human who enjoys solving difficult problems.
 
 ![TheTechromancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetechromancer&theme=dark&show_icons=true)
 
