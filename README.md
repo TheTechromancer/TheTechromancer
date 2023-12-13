@@ -1,6 +1,6 @@
 Hello 👋
 
-I'm a curious hacker with a passion for building things.
+I'm a curious human with a passion for building things.
 
 ![TheTechromancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetechromancer&theme=dark&show_icons=true)
 
