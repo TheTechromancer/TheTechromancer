@@ -4,7 +4,7 @@ I'm a curious human with a passion for building things.
 
 ![TheTechromancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetechromancer&theme=dark&show_icons=true)
 
-Below are links to some of my creations. Hopefully you will find them useful.
+Below are some of my creations. Hopefully you will find them useful.
 
 ---
 
