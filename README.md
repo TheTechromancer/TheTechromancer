@@ -1,10 +1,10 @@
-Hello 👋
+Hi there! 👋
 
-I'm a curious human with a passion for building things.
+I like solving problems by building efficient machines.
 
 ![TheTechromancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetechromancer&theme=dark&show_icons=true)
 
-Below are some of my creations. Hopefully you will find them useful.
+Below are some of the machines in question. Hopefully you will find them useful!
 
 ---
 
