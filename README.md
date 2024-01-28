@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I like solving problems by building efficient machines.
+I solve difficult problems by building efficient machines.
 
 ![TheTechromancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetechromancer&theme=dark&show_icons=true)
 
