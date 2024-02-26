@@ -4,7 +4,7 @@ I'm a hacker who loves building things more than breaking them.
 
 ![TheTechromancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetechromancer&theme=dark&show_icons=true)
 
-Below are some of the machines in question. Hopefully you will find them useful!
+Below are some of my creations. I hope you'll find them useful!
 
 ---
 
