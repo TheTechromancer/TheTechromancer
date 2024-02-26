@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I like building efficient machines to solve tricky problems.
+I'm a hacker who loves building things more than breaking them.
 
 ![TheTechromancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetechromancer&theme=dark&show_icons=true)
 
