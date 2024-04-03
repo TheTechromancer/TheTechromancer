@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm a hacker who loves building things more than breaking them.
+I'm a hacker who loves building things.
 
 ![TheTechromancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetechromancer&theme=dark&show_icons=true)
 
